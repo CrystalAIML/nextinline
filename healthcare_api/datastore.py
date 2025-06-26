@@ -1,0 +1,4 @@
+patients = {}
+clinics = {}
+doctors = {}
+appointments = {} 

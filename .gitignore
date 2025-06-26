@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Databases
+*.sqlite3
+*.db
+
+# VSCode/IDE
+.vscode/
+.idea/
+
+# Node (if any frontend or scripts)
+node_modules/
+
+# Credentials
+*.json
+!package.json
+
+# Lock files
+*.lock
+*.lockb
+
+# Others
+*.log 
